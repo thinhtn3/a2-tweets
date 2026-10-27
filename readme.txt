@@ -21,6 +21,6 @@ None.
 
 
 5. Is there anything special we need to know in order to run your code?
-Compile the TypeScript first with "tsc --p tsconfig.json" so js/tweet.js gets made, then open it with live-server. 
+Compile the TypeScript first with "tsc --p tsconfig.json" so js/tweet.js gets made. Then open .html files directly
 I didn't do the bonus. The longest/shortest activity and weekday/weekend answers on the activities page are typed in from reading the graphs.
 
